@@ -29,3 +29,4 @@ VALUES ( '$fname',' $lname','$email','$pass','$add','$gen','$dob','$city')";
   
  
 print_r($_POST);
+?>
